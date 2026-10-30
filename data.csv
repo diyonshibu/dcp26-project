@@ -1,0 +1,15 @@
+date,transaction_time,shop_name,category,amount,payment_method,transaction_type
+20/11/2026, 20:14, Tesco, Groceries, €1.50, Revolut, Apple Pay
+21/11/2026, 07:59, Irish Rail, Transport, €5.00, AIB, Card
+21/10/2026, 21:53, Mr.Wu, Takeaway, €11, Revolut, Apple Pay
+22/10/2026, 17:56, Transport For Ireland - TFI, Transport, €5.00, AIB, Card
+23/10/2026, 10:57, Transport For Ireland - TFI, Transport, €5.00, AIB, Card
+24/10/2026, 11:02, Sumup- Royal Takeaway, Takeaway, €15, AIB, Apple Pay
+25/10/2026, 12:05, Supervalue, Groceries, €8.70, AIB, Apple Pay
+25/10/2026, 18:11, Dominos Pizza, Takeaway, €10.00, AIB, Apple Pay
+27/10/2026, 21:43, Costcutter, Groceries, €3.50, AIB, Apple Pay
+27/10/2026, 22:42, Golden Wok, Takeaway, €8.50, Revolut, Apple Pay 
+28/10/2026, 12:12, PHONE TOP UP, Mobile, €15.00, AIB, Card
+28/10/2026, 15:53, Maxol, Petrol, €9.55, AIB, Apple Pay
+28/10/2026, 14:20, Burger King, Takeaway, €2.30, Revolut, Apple Pay
+29/30/2026, 13.21, Friend, lighting rental, €140, Revolut, Revolut

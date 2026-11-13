@@ -11,5 +11,8 @@ date,transaction_time,shop_name,category,amount,payment_method,transaction_type
 27/10/2026, 22:42, Golden Wok, Takeaway, €8.50, Revolut, Apple Pay 
 28/10/2026, 12:12, PHONE TOP UP, Mobile, €15.00, AIB, Card
 28/10/2026, 15:53, Maxol, Petrol, €9.55, AIB, Apple Pay
-28/10/2026, 14:20, Burger King, Takeaway, €2.30, Revolut, Apple Pay
-29/30/2026, 13.21, Friend, lighting rental, €140, Revolut, Revolut
+28/10/2026, 14:20, Burger Kig, Takeaway, €2.30, Revolut, Apple Pay
+29/30/2026, 13:21, Friend, lighting rental, €140, Revolut, Revolut
+04/11/2026, 11:38, Friend, hall/ lighting rental, €440, Revolut, Revolut
+07/11/2026, 15:43, Friend, Food, €4, Revolut, Revolut
+07/11/2026, 20:51, Friend, Food, €98, Revolut, Revolut

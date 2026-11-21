@@ -16,3 +16,22 @@ date,transaction_time,shop_name,category,amount,payment_method,transaction_type
 04/11/2026, 11:38, Friend, hall/ lighting rental, €440, Revolut, Revolut
 07/11/2026, 15:43, Friend, Food, €4, Revolut, Revolut
 07/11/2026, 20:51, Friend, Food, €98, Revolut, Revolut
+08/11/2026, 12:45, Costcutter, Groceries, €10.26, AIB, Apple Pay
+11/11/2026, 09:00, Irish Rail, Transport, €5.00, AIB, Card
+11/11/2026, 10:46, Technological University Dublin, Food, €2.50, AIB, Apple Pay
+11/11/2026, 18:51, Irish Rail, Transport, €5.00, AIB, Card
+12/11/2026, 11:57, Subway, Food, €11.25, AIB, Apple Pay
+12/11/2026, 12:01, Friend, Present, €4, Revolut, Revolut
+13/11/2026, 10:43, Irish Rail, Transport, €5.00, AIB, Card
+13/11/2026, 12:12, LIDL, Groceries, €2.88, AIB, Apple Pay
+14/11/2026, 21:05, Costcutter, Groceries, €1.00, AIB, Apple Pay
+14/11/2026, 21:46, Costcutter, Groceries, €2.50, AIB, Apple Pay
+16/11/2026, 14:54, Technological University Dublin, Food, €4.95, AIB, Apple Pay
+16/11/2026, 16:38, Pull&Bear, Clothing, €21.94, AIB, Apple Pay
+16/11/2026, 16:53, Irish Rail, Transport, €5.00, AIB, Card
+16/11/2026, 18:36, SuperKebabish, Food, €24.00, AIB, Card
+16/11/2026, 18:37, SuperKebabish, Food, €1.90, AIB, Card
+17/11/2026, 01:57, Vercel, Subscription, €13.92, AIB, Card
+17/11/2026, 14:19, Little Slice, Food, €4.50, AIB, Apple Pay
+17/11/2026, 16:17, Irish Rail, Transport, €5.00, AIB, Card
+

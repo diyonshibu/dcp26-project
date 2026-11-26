@@ -1,19 +1,19 @@
 date,transaction_time,shop_name,category,amount,payment_method,transaction_type
 20/11/2026, 20:14, Tesco, Groceries, €1.50, Revolut, Apple Pay
 21/11/2026, 07:59, Irish Rail, Transport, €5.00, AIB, Card
-21/10/2026, 21:53, Mr.Wu, Takeaway, €11, Revolut, Apple Pay
+21/10/2026, 21:53, Mr.Wu, Food, €11, Revolut, Apple Pay
 22/10/2026, 17:56, Transport For Ireland - TFI, Transport, €5.00, AIB, Card
 23/10/2026, 10:57, Transport For Ireland - TFI, Transport, €5.00, AIB, Card
-24/10/2026, 11:02, Sumup- Royal Takeaway, Takeaway, €15, AIB, Apple Pay
+24/10/2026, 11:02, Sumup- Royal Takeaway, Food, €15, AIB, Apple Pay
 25/10/2026, 12:05, Supervalue, Groceries, €8.70, AIB, Apple Pay
-25/10/2026, 18:11, Dominos Pizza, Takeaway, €10.00, AIB, Apple Pay
+25/10/2026, 18:11, Dominos Pizza, Food, €10.00, AIB, Apple Pay
 27/10/2026, 21:43, Costcutter, Groceries, €3.50, AIB, Apple Pay
-27/10/2026, 22:42, Golden Wok, Takeaway, €8.50, Revolut, Apple Pay 
+27/10/2026, 22:42, Golden Wok, Food, €8.50, Revolut, Apple Pay 
 28/10/2026, 12:12, PHONE TOP UP, Mobile, €15.00, AIB, Card
 28/10/2026, 15:53, Maxol, Petrol, €9.55, AIB, Apple Pay
-28/10/2026, 14:20, Burger Kig, Takeaway, €2.30, Revolut, Apple Pay
-29/30/2026, 13:21, Friend, lighting rental, €140, Revolut, Revolut
-04/11/2026, 11:38, Friend, hall/ lighting rental, €440, Revolut, Revolut
+28/10/2026, 14:20, Burger Kig, Food, €2.30, Revolut, Apple Pay
+29/10/2026, 13:21, Friend, Rental, €140, Revolut, Revolut
+04/11/2026, 11:38, Friend, Rental, €440, Revolut, Revolut
 07/11/2026, 15:43, Friend, Food, €4, Revolut, Revolut
 07/11/2026, 20:51, Friend, Food, €98, Revolut, Revolut
 08/11/2026, 12:45, Costcutter, Groceries, €10.26, AIB, Apple Pay
@@ -21,7 +21,7 @@ date,transaction_time,shop_name,category,amount,payment_method,transaction_type
 11/11/2026, 10:46, Technological University Dublin, Food, €2.50, AIB, Apple Pay
 11/11/2026, 18:51, Irish Rail, Transport, €5.00, AIB, Card
 12/11/2026, 11:57, Subway, Food, €11.25, AIB, Apple Pay
-12/11/2026, 12:01, Friend, Present, €4, Revolut, Revolut
+12/11/2026, 12:01, Friend, Gifts, €4, Revolut, Revolut
 13/11/2026, 10:43, Irish Rail, Transport, €5.00, AIB, Card
 13/11/2026, 12:12, LIDL, Groceries, €2.88, AIB, Apple Pay
 14/11/2026, 21:05, Costcutter, Groceries, €1.00, AIB, Apple Pay
@@ -34,5 +34,3 @@ date,transaction_time,shop_name,category,amount,payment_method,transaction_type
 17/11/2026, 01:57, Vercel, Subscription, €13.92, AIB, Card
 17/11/2026, 14:19, Little Slice, Food, €4.50, AIB, Apple Pay
 17/11/2026, 16:17, Irish Rail, Transport, €5.00, AIB, Card
-
-
